@@ -1,0 +1,8 @@
+{
+  "development": {
+    "baseUrl": "http://localhost:3000/api"
+  },
+  "production": {
+    "baseUrl": "https://infinite-island-37700.herokuapp.com/api"
+  }
+}
